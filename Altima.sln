@@ -17,12 +17,12 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Altima.Portable", "Altima\A
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		Altima\Altima\Altima.projitems*{f9ec38f9-f7e4-4993-9d93-8cab29ad781a}*SharedItemsImports = 4
-		Altima\Altima\Altima.projitems*{fb689f17-1030-457f-83ce-5aa59b25e2e5}*SharedItemsImports = 4
-		Altima\Altima\Altima.projitems*{3735253f-c931-4075-897c-41c9e92ace14}*SharedItemsImports = 4
-		Altima\Altima\Altima.projitems*{46314dd4-ad37-45b7-9495-39007b5b1805}*SharedItemsImports = 4
-		Altima\Altima\Altima.projitems*{030bfdb1-65c9-45c9-af73-683f3d76f12e}*SharedItemsImports = 4
-		Altima\Altima\Altima.projitems*{b14c7ca5-c1bd-4f0f-bbed-3776a5fff018}*SharedItemsImports = 13
+		Altima\Altima.Portable\Altima.projitems*{f9ec38f9-f7e4-4993-9d93-8cab29ad781a}*SharedItemsImports = 4
+		Altima\Altima.Portable\Altima.projitems*{fb689f17-1030-457f-83ce-5aa59b25e2e5}*SharedItemsImports = 4
+		Altima\Altima.Portable\Altima.projitems*{3735253f-c931-4075-897c-41c9e92ace14}*SharedItemsImports = 4
+		Altima\Altima.Portable\Altima.projitems*{46314dd4-ad37-45b7-9495-39007b5b1805}*SharedItemsImports = 4
+		Altima\Altima.Portable\Altima.projitems*{030bfdb1-65c9-45c9-af73-683f3d76f12e}*SharedItemsImports = 4
+		Altima\Altima.Portable\Altima.projitems*{b14c7ca5-c1bd-4f0f-bbed-3776a5fff018}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
